@@ -2,20 +2,20 @@
 # General Site Settings
 
 menu:
-- {name: '项目', url: ''}
-# - {name: 'Blog',     url: 'blog'}
-- {name: '关于我们',    url: 'about'}
+- {name: '时间&地点',    url: 'about'}
+- {name: '仪式内容', url: ''}
+#- {name: 'Blog',     url: 'blog'}
 - {name: '联系我们',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: '欢迎',   url: 'proj-1'}
-- {name: '婚礼场地介绍',   url: 'proj-2'}
+- {name: '关于我们',   url: 'proj-1'}
+- {name: '场地介绍',   url: 'proj-2'}
 - {name: '重要时间点', url: 'proj-3'}
 - {name: '交通信息',  url: 'proj-4'}
-- {name: '致谢',  url: 'proj-5'}
+- {name: '感恩感谢',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section

@@ -4,6 +4,14 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact
+## 联系我们
+婚礼过程中出现任何问题，欢迎及时联系我们处理，让您在此过程中的不便感到抱歉，希望大家能留下一个美好的记忆。   
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+-----------
+- 手机号  
+-- 马武：13236570726  
+-- 蒋琳：13585783170  
+
+- 微信号  
+-- 马武：mawu_1014  
+-- 蒋琳：xxxxxx
