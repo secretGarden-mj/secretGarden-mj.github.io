@@ -8,5 +8,5 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "M&J夏日园游会"
-description: "芝兰茂千载 琴瑟乐百年"
-author:      "马武"
+description: "Powered by Jekyll and GitHub Pages"
+author:      "mawu"
