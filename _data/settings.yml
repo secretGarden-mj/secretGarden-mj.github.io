@@ -11,9 +11,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: '关于我们',   url: 'proj-1'}
-- {name: '场地介绍',   url: 'proj-2'}
-- {name: '仪式流程', url: 'proj-3'}
+- {name: '关于我们',  url: 'proj-1'}
+- {name: '场地介绍',  url: 'proj-2'}
+- {name: '仪式流程',  url: 'proj-3'}
 - {name: '场地交通',  url: 'proj-4'}
 - {name: '感恩感谢',  url: 'proj-5'}
 
