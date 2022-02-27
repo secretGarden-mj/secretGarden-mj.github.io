@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '新人介绍'
+title: 'About us'
 ---
 Hi 我亲爱的家人和朋友    
 我们决定于**2022年5月14日**结为夫妻❤️❤️❤️ 
@@ -21,13 +21,11 @@ Hi 我亲爱的家人和朋友
 是你❤️真好  
 
 !["we"](/assets/img/wending/02.png "We")
-
-<!-- !["we"](/assets/img/wending/03.png "We") -->
  
 <font color=grey size=4>新郎</font>
 <font size=5>马武</font>
-
 !["we"](/assets/img/wending/05.png "We")
-<!-- !["we"](/assets/img/wending/07.png "We") -->
+我将永远忠于自己    
+披星戴月奔向理想和你    
 !["we"](/assets/img/wending/08.png "We")
 !["we"](/assets/img/wending/09.png "We" width="50%" height="50%")
