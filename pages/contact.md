@@ -14,5 +14,5 @@ permalink: /contact
 -- 蒋琳：13585783170  
 
 - 微信号    
-<img alt="wechat" src="/assets/img/wending/10.png" width="100%">
-<img alt="wechat" src="/assets/img/wending/11.png" width="100%">
+<img alt="wechat" src="/assets/img/wending/10.jpg" width="100%">
+<img alt="wechat" src="/assets/img/wending/11.jpg" width="100%">

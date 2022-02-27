@@ -25,5 +25,5 @@ table th:nth-of-type(2) {
 | 18:08  | 自助晚宴   |
 
 ---
-!["we"](/assets/img/zhiweishiguang/05.png "We")
-!["we"](/assets/img/zhiweishiguang/06.png "We")
+!["we"](/assets/img/zhiweishiguang/05.jpg "We")
+!["we"](/assets/img/zhiweishiguang/06.jpg "We")

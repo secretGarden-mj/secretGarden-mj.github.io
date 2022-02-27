@@ -20,19 +20,19 @@ permalink: /about
 * 花园客厅      
 欢迎您到这边好好休息，也可以组织朋友在这边桌游或者玩游戏     
 plus: 如果当天下雨，我们会在这里举行室内就餐哦   
-<img alt="花园客厅" src="/assets/img/zhiweishiguang/01.png" width="100%">
+<img alt="花园客厅" src="/assets/img/zhiweishiguang/01.jpg" width="100%">
 
 ---
 * 多功能厅   
 欢迎您到这边休息，如果想唱K的话，这里也会支持，此外还有一些电子游戏可以体验  
-<img alt="多功能厅" src="/assets/img/zhiweishiguang/03.png" width="100%">
+<img alt="多功能厅" src="/assets/img/zhiweishiguang/03.jpg" width="100%">
 
 ---
 * 草坪       
 婚礼的主仪式场地，此外如果天气OK，我们会在这里举行晚餐   
-<img alt="多功能厅" src="/assets/img/zhiweishiguang/04.png" width="100%">
+<img alt="多功能厅" src="/assets/img/zhiweishiguang/04.jpg" width="100%">
 
 ---
 * 休闲走廊    
 这里布置了一些户外座位，可以与三两好友来这里聊天或者小酌一杯      
-<img alt="多功能厅" src="/assets/img/zhiweishiguang/02.png" width="100%">
+<img alt="多功能厅" src="/assets/img/zhiweishiguang/02.jpg" width="100%">
