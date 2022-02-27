@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: '时间&地点',    url: 'about'}
+- {name: '时间&场地',    url: 'about'}
 - {name: '仪式内容', url: ''}
 #- {name: 'Blog',     url: 'blog'}
 - {name: '联系我们',  url: 'contact'}
@@ -11,8 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: '关于我们',  url: 'proj-1'}
-- {name: '场地介绍',  url: 'proj-2'}
+- {name: '新人介绍',  url: 'proj-1'}
+# - {name: '场地介绍',  url: 'proj-2'}
 - {name: '仪式流程',  url: 'proj-3'}
 - {name: '场地交通',  url: 'proj-4'}
 - {name: '感恩感谢',  url: 'proj-5'}
