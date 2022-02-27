@@ -12,16 +12,16 @@ title: 'About Us'
 <center>好久不见，甚是想念，我们婚礼见！</center>
 !["we"](/assets/img/wending/01.png "We")
 !["we"](/assets/img/wending/06.png "We")     
-<font face="" color=grey size=4>新娘</font>
-<font face="微软雅黑" size=5>蒋琳</font>
+<center><font face="" color=grey size=4>新娘</font></center> 
+<center><font face="微软雅黑" size=5>蒋琳</font></center> 
 !["we"](/assets/img/wending/04.png "We")
-<center>未曾相逢先一笑，初会便已许平 </center>
+<center>未曾相逢先一笑，初会便已许平生 </center>
 <center>今晚月色真好    </center>
 <center>余生请你指教    </center>
 !["we"](/assets/img/wending/02.png "We")
  
-<font color=grey size=4>新郎</font>
-<font size=5>马武</font>
+<center><font color=grey size=4>新郎</font></center> 
+<center> <font size=5>马武</font></center> 
 !["we"](/assets/img/wending/05.png "We")
 <center>如这山间清晨一般明亮清爽</center> 
 <center>如奔赴古城道路上阳光一般</center>  
