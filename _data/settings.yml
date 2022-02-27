@@ -3,7 +3,7 @@
 
 menu:
 - {name: '邀请函', url: ''}
-- {name: '时间&场地',    url: 'about'}
+- {name: '关于场地',    url: 'about'}
 #- {name: 'Blog',     url: 'blog'}
 - {name: '联系我们',  url: 'contact'}
 
