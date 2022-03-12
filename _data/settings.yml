@@ -5,7 +5,7 @@ menu:
 - {name: '邀请函', url: ''}
 - {name: '关于场地',    url: 'about'}
 #- {name: 'Blog',     url: 'blog'}
-- {name: 'About Us',  url: 'contact'}
+- {name: 'Contact Us',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
