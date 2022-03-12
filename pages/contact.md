@@ -4,15 +4,22 @@ title: Contact
 permalink: /contact
 ---
 
-#### Concat Us
-婚礼过程中出现任何问题, 请及时联系我们处理    
-让您在此过程中的不便感到抱歉，希望大家能留下美好的回忆
+<center><b><font face="微软雅黑" color=black size=5>Contact Us</font></b></center>
+
+----
+<p align="center" style="line-height:2em;">
+婚礼前、婚礼进行中如果有任何问题, 可随时联系我们 <br>    
+希望能给大家留下一段美好的回忆 <br>
+</p>
       
 -----------
-- 手机号  
--- 马武：13236570726  
--- 蒋琳：13585783170  
+<p align="center" style="line-height:2em;">
+<b><font face="黑体" size=3>｜手机号｜</font></b><br>
+马武：13236570726 <br>  
+蒋琳：13585783170 <br>  
+</p>
 
-- 微信号    
+<p align="center" style="line-height:1.5em;">
+<b><font face="黑体" size=3>｜微信号｜</font></b><br></p>
 <img alt="wechat" src="/assets/img/wending/10.jpg" width="100%">
 <img alt="wechat" src="/assets/img/wending/11.jpg" width="100%">
