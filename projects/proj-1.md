@@ -17,7 +17,7 @@ Hi 我亲爱的家人和朋友 <br>
 / <br>
 好久不见，甚是想念 <br>
 / <br>
-我们婚礼见 <br>
+我们婚礼见 💑 <br>
 </p>
 -----
 !["we"](/assets/img/wending/01.jpg "We")
