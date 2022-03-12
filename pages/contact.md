@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact
 ---
 
-<center><b><font face="微软雅黑" color=black size=5>Contact Us</font></b></center>
+<center><b><font face="微软雅黑" color=black size=5>联系我们</font></b></center>
 
 ----
 <p align="center" style="line-height:2em;">
