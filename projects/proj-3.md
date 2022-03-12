@@ -4,11 +4,11 @@ title: '仪式流程'
 ---
 
 <p align="center" style="line-height:2em;">
-/ <br> 
+<br> 
 感谢大家抽出宝贵的时间来参加我们的婚礼 <br>       
-**希望大家玩的开心** <br>
+** 希望大家玩的开心 ** <br>
 ～make some noise～ 让我们嗨起来🔥🔥 <br> 
-/</p>
+</p>
 
 ----
 <style>
