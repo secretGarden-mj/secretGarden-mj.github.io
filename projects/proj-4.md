@@ -3,8 +3,8 @@ layout: post
 title: '场地交通'
 ---
 #### 位置  
-- 织味时光位于📍[松江区佘北路180号](https://map.qq.com/m/detail/poi/poid=5929177353517313607)
-
+- 织味时光位于📍[松江区佘北路180号](https://map.qq.com/m/detail/poi/poid=5929177353517313607)    
+![pic1](/assets/img/zhiweishiguang/WechatIMG29.jpeg "1")
 - 场地坐落于上海月湖雕塑公园旁，从秋月舫主题餐厅-西北门进入可快速到达场地       
 - Tips:上海月湖雕塑公园出入口较多，进园会收取门票    
   *我们与场地方达成了合作，从秋月舫-西北门进入的各位将不会被收取门票*
