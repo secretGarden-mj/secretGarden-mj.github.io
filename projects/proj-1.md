@@ -21,7 +21,7 @@ Hi 我亲爱的家人和朋友 <br>
 </p>
 -----
 !["we"](/assets/img/wending/01.jpg "We")
-!["we"](/assets/img/wending/06.jpg "We")     
+!["we"](/assets/img/wending/06-1.jpg "We")     
 <center><font face="">｜新娘｜</font></center> 
 <center><font face=""><b>- 蒋琳 -</b></font></center> 
 <br>
@@ -34,7 +34,7 @@ Hi 我亲爱的家人和朋友 <br>
 余生请你指教 <br>
 </p>
 -----
-!["we"](/assets/img/wending/02.jpg "We")
+!["we"](/assets/img/wending/02-1.jpg "We")
  
 <center><font face="">｜新郎｜</font></center> 
 <center><font face=""><b>- 马武 -</b></font></center>
