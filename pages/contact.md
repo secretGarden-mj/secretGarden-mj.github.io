@@ -13,11 +13,11 @@ permalink: /contact
 </p>
       
 -----------
-<p align="center" style="line-height:2em;">
+<!-- <p align="center" style="line-height:2em;">
 <b><font face="黑体" size=3>｜手机号｜</font></b><br>
 马武：13236570726 <br>  
 蒋琳：13585783170 <br>  
-</p>
+</p> -->
 
 <p align="center" style="line-height:1.5em;">
 <b><font face="黑体" size=3>｜微信号｜</font></b><br></p>
